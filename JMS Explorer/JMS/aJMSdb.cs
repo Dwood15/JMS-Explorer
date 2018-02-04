@@ -16,8 +16,6 @@ namespace JMS_Explorer.AppendedJMSDB
 
 
         }
-    
-    
     }
     struct iVec3 {
         int x;
@@ -36,7 +34,6 @@ namespace JMS_Explorer.AppendedJMSDB
         
         
         }
-
     }
     struct PieceID {
         string name;
